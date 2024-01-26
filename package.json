@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kskannandotwin/forkify-js-project.git"
+  },
+  "author": "kannan ks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kskannandotwin/forkify-js-project/issues"
+  },
+  "homepage": "https://github.com/kskannandotwin/forkify-js-project#readme",
+  "devDependencies": {
+    "webpack": "^5.90.0"
+  },
+  "dependencies": {}
+}
